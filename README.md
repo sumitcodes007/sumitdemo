@@ -1,2 +1,5 @@
 # sumitdemo
-This is my Second Git Repository
+This is my Second Git Repository.
+<br>
+Author - Sumit Ruhela
+
